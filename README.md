@@ -2505,3 +2505,8 @@ A good beginner order is:
 ```
 
 > **Important:** `eval()` is useful for understanding Python's evaluation mechanism, but it should not be treated as a general-purpose way to parse untrusted input.
+## Topics Covered
+
+- Python eval() function
+- Command-line arguments
+- Format specifiers
